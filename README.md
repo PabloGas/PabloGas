@@ -1,4 +1,4 @@
-<<h1 align="center">Hi there 👋, I'm Pablo Gas</h1>
+<h1 align="center">Hi there 👋, I'm Pablo Gas</h1>
 <h3 align="center">Data science and cybersecurity enthusiast</h3>
 
 <br/>
