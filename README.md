@@ -4,7 +4,7 @@
 <br/>
 <p>
   <em>
-    I am alumni of the<a href="http://www.uco.es/"> <b> University of Córdoba</b>, Spain</a>. Currently, I am learning to program in C at <a href="https://42.fr/en/homepage/"> <b>School 42</b>, Málaga</a>, and I am studing web development at <a href="https://www.iestrassierra.com/cfgs-desarrollo-de-aplicaciones-web-a-distancia/"> <b>IES Trassierra</b>, Córdoba</a>
+    I am alumni of the<a href="http://www.uco.es/"> <b> University of Córdoba</b>, Spain</a>. Currently, I am learning to program in C at <a href="https://42.fr/en/homepage/"> <b>School 42</b>, Málaga</a>, and I am studing web development at <a href="https://www.iestrassierra.com/cfgs-desarrollo-de-aplicaciones-web-a-distancia/"> <b>IES Trassierra</b>, Córdoba</a></br></br>
     A budding <b>Data Analytics</b> <img src="https://github.com/PabloGas/PabloGas/blob/main/Assets/Designer.gif" width="30px"> and a <b>Cybersecurity Enthusiast</b>&nbsp;<img src="https://github.com/PabloGas/PabloGas/blob/main/Assets/Developer.gif" width="36px">  who is <b>passionate</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> <img src="https://github.com/PabloGas/PabloGas/blob/main/Assets/Rocket.gif" width="18px">and <b>excel.</b> <img src="https://github.com/PabloGas/PabloGas/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
