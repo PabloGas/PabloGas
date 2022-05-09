@@ -12,7 +12,7 @@
 
 <ul>
   <li> 🔭 I’m currently working on C based projects </li>
-  <li> 🌱 I’m currently mastering <a href="https://www.coursera.org/learn/python-crash-course"> <b>Crash Course on Python</b></a>, from <b>Coursera</b></li>
+  <li> 🌱 I’m currently mastering <a href="https://www.coursera.org/professional-certificates/google-it-automation"> <b>Google IT Automation with Python</b></a>, from <b>Coursera</b></li>
   <li> 👯 I’m open to collaboration on ICT sector based projects </li>
 </ul><br/>
 
